@@ -4,15 +4,15 @@
 ---
 
 # 💫 About Me:
-🎓 **3rd-year CSBS student** passionate about **web development** and **problem solving**.  
-💻 I love crafting clean and responsive frontend designs using **HTML**, **CSS**, and **JavaScript**,  
-and I’m also comfortable coding in **C** and **Java** for backend and logic building.  
+🎓 I’m **M B Akshai Kannaa**, a **3rd-year CSBS student** passionate about **web development** and **problem solving**.  
+💻 I enjoy creating simple and responsive designs using **HTML, CSS, and JavaScript**,  
+and I write efficient code in **C** and **Java** to strengthen my logic and backend skills.
 
 💡 **Fun Facts:**  
 - ⚡ Debugging feels like detective work — minus the coffee breaks.  
 - ☕ Coffee + Code = Perfect combo.  
-- 😄 My favorite line of code? `console.log("Hello World!");`  
-- 🎮 When not coding, you’ll probably find me gaming or exploring new tech.  
+- 😄 My favorite line of code? `System.out.println("Hello World!");`  
+- 📊 I actually enjoy organizing things neatly in Excel sheets!
 
 ---
 
@@ -25,7 +25,7 @@ and I’m also comfortable coding in **C** and **Java** for backend and logic bu
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/AKSHAI0426" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -33,7 +33,7 @@ and I’m also comfortable coding in **C** and **Java** for backend and logic bu
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,c,mysql,git,github,vscode,figma,lightroom" />
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,github,vscode,excel" />
 </p>
 
 ---
@@ -58,7 +58,7 @@ and I’m also comfortable coding in **C** and **Java** for backend and logic bu
 ---
 
 # ✍️ Quote of the Day
-> “Code is like humor. When you have to explain it, it’s bad.”  
+> “Talk is cheap. Show me the code.” — Linus Torvalds  
 
 ---
 
@@ -66,4 +66,4 @@ and I’m also comfortable coding in **C** and **Java** for backend and logic bu
   <img src="https://visitcount.itsvg.in/api?id=AKSHAI0426&icon=0&color=0" alt="Profile Visit Count"/>
 </p>
 
-<!-- Designed by Akshai Kannaa 💫 | Generated with ❤️ using ChatGPT -->
+
