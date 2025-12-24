@@ -4,7 +4,7 @@
 ---
 
 # 💫 About Me:
-🎓 I’m **M B Akshai Kannaa**, a **3rd-year CSBS student** passionate about **web development** and **problem solving**.  
+🎓 I’m **M B Akshai Kannaa**,**web development** and **problem solving**.  
 💻 I enjoy creating simple and responsive designs using **HTML, CSS, and JavaScript**,  
 and I write efficient code in **C** and **Java** to strengthen my logic and backend skills.
 
